@@ -1,6 +1,7 @@
 Here's some text in a file.
 
 This part is a little shaky and might change later. This will fix it. Snip snip snip. Another change!
+Now we're rolling.
 
 cbare added this part! Then nastyhacks edited it.
 
