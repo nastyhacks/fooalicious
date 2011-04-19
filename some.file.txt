@@ -1,5 +1,7 @@
 Here's some text in a file.
 
-This part is a little shaky and might change later. Another change!
+This part is a little shaky and might change later. This will fix it. Snip snip snip. Another change!
+
+cbare added this part!
 
 But this part is totally brick-shithouse solid.
